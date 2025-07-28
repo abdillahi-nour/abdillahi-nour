@@ -22,4 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdillahi-nour&show_icons=true&locale=en" alt="abdillahi-nour" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdillahi-nour&" alt="abdillahi-nour" /></p>
+
